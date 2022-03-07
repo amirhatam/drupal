@@ -1,0 +1,11 @@
+name: SVG Sanitizer
+description: Makes the SVG Sanitizer library available to Drupal
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Media
+type: module
+
+# Information added by Drupal.org packaging script on 2021-06-17
+version: '2.0.0'
+project: 'svg_sanitizer'
+datestamp: 1623968517
